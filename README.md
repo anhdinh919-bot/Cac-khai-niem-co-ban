@@ -37,7 +37,7 @@ Các hàm số sau đây là hàm lượng giác:
 Tính chất hình học nổi bật nhất của hàm lượng giác là sự lặp lại (tuần hoàn):
 \begin{itemize}
     \item \textbf{Hàm $y = \sin x$ và $y = \cos x$:} Tập xác định $D = \mathbb{R}$. Đây là các hàm tuần hoàn với chu kỳ cơ sở $T = 2\pi$. Nghĩa là cứ sau một khoảng $2\pi$, đồ thị lại lặp lại hình dáng ban đầu: $\sin(x + 2\pi) = \sin x$.
-    \item \textbf{Hàm $y = \tan x$:} Tập xác định $D = \mathbb{R} \setminus \left\{\frac{\pi}{2} + k\pi \mid k \in \mathbb{Z}\right\}$, chu kỳ lặp lại ngắn hơn, $T = \pi$.
+    \item \textbf{Hàm $y = \tan x$:} Tập xác định $D = \mathbb{R} \setminus \left\lbrace \frac{\pi}{2} + k\pi \mid k \in \mathbb{Z} \right\rbrace$, chu kỳ lặp lại ngắn hơn, $T = \pi$.
 \end{itemize}
 
 % ============================================================
